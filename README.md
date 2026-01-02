@@ -7,12 +7,12 @@ This project tells about the performance for a individual student, and relations
 🔹Features used:
 Hours Studied
 Previous Scores
-Extracurricular Activites
+Extracurricular Activities
 Sleep Hours
 Sample Question Papers Practiced
 
 🎯Target variable:
-performance index
+Performance Index
 
 📁File Description:
 Student Performance Prediction
@@ -29,7 +29,7 @@ Model Buliding
 Model Training
 Model Evalution
 
-🤖Machine Learning Models
+🤖Machine Learning Models:
 Linear Regression
 Decision Tree
 
