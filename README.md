@@ -49,7 +49,7 @@ The model successfully predicts the student performance based on features with g
 
 🧠Conclusion
 
-This project demonstrates how machine learning can be used in the student performance, With further feature engineering and advanced models, prediction accuracy can be improved
+This project demonstrates how machine learning can be used in the student performance with various features, With further feature engineering and advanced models, prediction accuracy can be improved
 
 
 
