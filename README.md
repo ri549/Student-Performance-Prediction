@@ -18,12 +18,12 @@ Performance Index
 Student Performance Prediction
 Student_Performance(1)
 
-🛠️Technologies used:
+🛠️Technologies used
 
 Programming Language: Python
 Libraries: pandas, numpy, seaborn, matplotlib
 
-⚙️Workflow:
+⚙️Workflow
 
 Data Cleaning
 Exploratory Data Analysis (EDA) 
@@ -31,12 +31,12 @@ Model Buliding
 Model Training
 Model Evalution
 
-🤖Machine Learning Models:
+🤖Machine Learning Models
 
 Linear Regression
 Decision Tree
 
-📊Metrics:
+📊Metrics
 
 Mean Squared Error
 Root Mean Squared Error
