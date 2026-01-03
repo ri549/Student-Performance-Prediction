@@ -45,11 +45,10 @@ R-Squared
 
 🚀 Result
 
-The model successfully predicts the student performance based on features with good accuracy and balanced performance across evaluation metrics.
+The model successfully predicts student performance using key features, achieving good accuracy and balanced performance across evaluation metrics.
 
 🧠Conclusion
 
-This project demonstrates how machine learning can be used in the student performance with various features, With further feature engineering and advanced models, prediction accuracy can be improved
-
+This project demonstrates how machine learning can be used to predict student performance using various features. With further feature engineering and the use of advanced models, prediction accuracy can be improved.
 
 
